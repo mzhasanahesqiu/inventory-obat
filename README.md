@@ -11,7 +11,7 @@ Nama Anggota:
 - Okta Pratama        (1910631170115)
 ```
 
-`` Halo ``
+``Halo``
 
 <!DOCTYPE html>
 <html>
