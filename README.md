@@ -1,7 +1,7 @@
 # inventory-obat
 ## Sistem Inventory Obat Apotek Joint Farma
 
-UAS Praktikum Pemrograman Berbasis Web
+### UAS Praktikum Pemrograman Berbasis Web
 Kelompok 5 Kelas 4A
 Nama Anggota:
 - Yusril Arbizal      (1910631170057)
