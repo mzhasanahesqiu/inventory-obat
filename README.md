@@ -34,7 +34,7 @@ inspirasi dari pinterest & pembuatan menggunakan Adobe Illustrator
 
 Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-     |     |     |
+                           |                           |                           |
 
 
 Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
@@ -43,7 +43,7 @@ Register                   |  Login                    |  Home (List Movies)    
 
 Circle CI for continuous integration tools
 :-------------------------:
-![](Screenshoot/5.PNG)   
+
 ###
 ## Description
 ## Details
