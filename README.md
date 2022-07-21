@@ -32,6 +32,10 @@ inspirasi dari pinterest & pembuatan menggunakan Adobe Illustrator
 ````
 <br>
 
+Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+     |     |     |
+
 
 Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
