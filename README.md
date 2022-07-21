@@ -32,10 +32,19 @@ inspirasi dari pinterest & pembuatan menggunakan Adobe Illustrator
 ````
 <br>
 
+
+Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![product_22](https://user-images.githubusercontent.com/75381611/180190677-e59f4ed1-b801-42a8-a8f0-f062ce768a37.png)     |  ![product_22](https://user-images.githubusercontent.com/75381611/180190677-e59f4ed1-b801-42a8-a8f0-f062ce768a37.png)   |  ![product_22](https://user-images.githubusercontent.com/75381611/180190677-e59f4ed1-b801-42a8-a8f0-f062ce768a37.png)   |![product_22](https://user-images.githubusercontent.com/75381611/180190677-e59f4ed1-b801-42a8-a8f0-f062ce768a37.png)
+
+Circle CI for continuous integration tools
+:-------------------------:
+![](Screenshoot/5.PNG)   
 ###
 ## Description
 ## Details
 ## Screenshoot
 ## Demonstration
+
 ## Legal
 ````
