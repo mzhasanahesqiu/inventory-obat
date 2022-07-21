@@ -34,7 +34,6 @@ inspirasi dari pinterest & pembuatan menggunakan Adobe Illustrator
 
 Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-                           |                           |                           |
 
 
 Register                   |  Login                    |  Home (List Movies)       |Movies Detail 
