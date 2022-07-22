@@ -38,9 +38,7 @@ Register                   |  Login                    |  Home (List Movies)    
 
 Splash                   |  Onboarding                    |  Login       |Register
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![splash](https://user-images.githubusercontent.com/75381611/180443708-988f8c11-2693-4103-9e4a-cf1b027ff409.jpeg)     | ![onboarding1](https://user-images.githubusercontent.com/75381611/180443916-c14e6f8c-2eef-4726-a97f-62ef73b4ada6.jpeg)
-    |   ![login](https://user-images.githubusercontent.com/75381611/180443952-2c10033e-c1de-4627-9ef1-b6bf63476c26.jpeg)
-  |![register](https://user-images.githubusercontent.com/75381611/180443979-8353a1f6-e94e-4a41-bf3f-feab2fae959d.jpeg)
+![splash](https://user-images.githubusercontent.com/75381611/180443708-988f8c11-2693-4103-9e4a-cf1b027ff409.jpeg)     | ![onboarding1](https://user-images.githubusercontent.com/75381611/180443916-c14e6f8c-2eef-4726-a97f-62ef73b4ada6.jpeg) |   ![login](https://user-images.githubusercontent.com/75381611/180443952-2c10033e-c1de-4627-9ef1-b6bf63476c26.jpeg) |![register](https://user-images.githubusercontent.com/75381611/180443979-8353a1f6-e94e-4a41-bf3f-feab2fae959d.jpeg)
 
 
 
