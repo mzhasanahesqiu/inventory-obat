@@ -45,9 +45,9 @@ Home | Info Produk | Tawar Produk | Tambah Produk
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![home](https://user-images.githubusercontent.com/75381611/180444728-648b3033-678f-4d73-9f8f-6ac7988003c5.jpeg) | ![InfoProduk](https://user-images.githubusercontent.com/75381611/180444826-5514b0c9-7e8a-4d79-bdc4-014e6587dd70.jpeg) | ![InputTawar](https://user-images.githubusercontent.com/75381611/180444896-144215d9-63c3-433b-82ce-c69d68e55be3.jpeg) | ![TambahProduk](https://user-images.githubusercontent.com/75381611/180444949-826cbb44-51f9-406d-80fb-15fced9f4743.jpeg)
 
-Akun
-:-------------------------:
-![akun](https://user-images.githubusercontent.com/75381611/180445054-9de0e97c-c3e1-4a83-9e68-fce8b2dac6a4.jpeg)
+Akun | Daftar Jual | | 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![akun](https://user-images.githubusercontent.com/75381611/180445054-9de0e97c-c3e1-4a83-9e68-fce8b2dac6a4.jpeg) | | | 
 
 
 Circle CI for continuous integration tools
