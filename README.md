@@ -49,6 +49,7 @@ Akun | Daftar Jual | |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![akun](https://user-images.githubusercontent.com/75381611/180445054-9de0e97c-c3e1-4a83-9e68-fce8b2dac6a4.jpeg) | | | 
 
+https://market-final-project.herokuapp.com/api-docs/
 
 Circle CI for continuous integration tools
 :-------------------------:
